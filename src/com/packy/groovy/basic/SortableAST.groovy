@@ -1,4 +1,4 @@
-package com.packy.groovy.lesson1
+package com.packy.groovy.basic
 
 import groovy.transform.Sortable
 import groovy.transform.ToString

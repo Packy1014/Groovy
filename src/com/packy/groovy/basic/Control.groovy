@@ -1,4 +1,4 @@
-package com.packy.groovy.lesson1
+package com.packy.groovy.basic
 
 String name = 'Packy'
 if (name)

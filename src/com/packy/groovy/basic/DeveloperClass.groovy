@@ -1,4 +1,4 @@
-package com.packy.groovy.lesson1
+package com.packy.groovy.basic
 
 class Developer {
     String firstName
