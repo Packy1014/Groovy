@@ -1,4 +1,4 @@
-package com.packy.groovy.mop
+package com.packy.groovy.metaruntime
 
 class PropertyDemo {
     def prop1 = 'prop1'

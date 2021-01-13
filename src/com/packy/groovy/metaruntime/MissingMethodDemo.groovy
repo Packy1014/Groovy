@@ -1,4 +1,4 @@
-package com.packy.groovy.mop
+package com.packy.groovy.metaruntime
 
 class MissingMethod {
     def methodMissing(String name, def args) {

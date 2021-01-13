@@ -1,4 +1,4 @@
-package com.packy.groovy.mop
+package com.packy.groovy.metaruntime
 
 class PropertyMissing {
     def propertyMissing(String name) {
