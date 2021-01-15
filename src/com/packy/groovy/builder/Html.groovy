@@ -2,7 +2,7 @@ package com.packy.groovy.builder
 
 import groovy.xml.MarkupBuilder
 
-FileWriter writer = new FileWriter('about.html')
+FileWriter writer = new FileWriter('about.Html')
 MarkupBuilder builder = new MarkupBuilder(writer)
 
 List courses = [

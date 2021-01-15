@@ -1,0 +1,10 @@
+Dear $firstName $lastName
+
+You currently have ${repositories.size()} repositories
+
+<%
+    repositories.each{
+        repo->println "> $repo.name"
+    }
+%>
+Thank you
